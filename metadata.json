@@ -1,0 +1,6 @@
+{
+  "name": "Shajara — Bizning oilaviy tariximiz",
+  "description": "Mahmudxo'ja nuqtayi nazaridan tuzilgan oilaviy shajara, avlodlar bog'lanishi, ota-ona va bobo-buvilar tarixi hamda oilaviy daraxt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
